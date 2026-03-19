@@ -13,8 +13,9 @@ A browser-based tool for enhancing audio tracks with professional-grade effects.
 </div>
 
 ## 🚀 Overview
-
-I created this tool to enable quick and simple remastering of music tracks created on [suno.com](https://suno.com) that I wrote with [lyric-genie.com](https://lyric-genie.com). The application provides an intuitive interface for applying EQ, compression, stereo enhancement, and other audio effects to your tracks.
+Drag sound files in to window and remaster them in seconds - then download to desktop .
+This is superfast - most online apps require you to subscribe so i created this to do the same thing from any desk top.
+Works on any windows desktop - lightning fast audio remix - in html
 
 ## ✨ Features
 
