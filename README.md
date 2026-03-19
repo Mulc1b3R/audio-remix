@@ -31,12 +31,7 @@ Works on any windows desktop - lightning fast audio remix - in html
 
 **All processing is done entirely client-side in your browser.** 
 
-Your audio files are never uploaded to any servers, ensuring complete privacy and data security. You can verify this by examining the source code in this repository.
+Your audio files are never uploaded to any servers, ensuring complete privacy and data security.
+You can verify this by examining the source code in this repository.
 
-## 🛠️ Development
 
-This project was created with the assistance of Google's Gemini 2.5 Pro using the Canvas feature.
-
-## 🌐 Try It Out
-
-Visit [https://remaster.mbdr.ai](https://remaster.mbdr.ai) to use the Audio Remastering Lab. 
